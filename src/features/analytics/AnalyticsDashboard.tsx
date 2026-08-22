@@ -7,6 +7,7 @@ import { ElevationChart } from "./ElevationChart";
 import { DelayTrendChart } from "./DelayTrendChart";
 import {
   Gauge,
+  Clock,
   MapPin,
   TrendingUp,
   Mountain,
